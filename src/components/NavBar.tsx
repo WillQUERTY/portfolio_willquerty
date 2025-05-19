@@ -97,7 +97,7 @@ export function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/JonHaywood/portfolio"
+                href="https://github.com/WillQUERTY/portfolio"
                 target="_blank"
                 className="fork-btn-inner"
                 title="Portfolio GitHub Repository"
