@@ -28,7 +28,7 @@ function RouteComponent() {
               imgPath={realTimeAudio}
               title="OpenAI Realtime Audio"
               description="This project demonstrates how to use OpenAI's new Realtime API beta with audio streaming. When the user speaks, their audio is streamed to Open AI and Open AI's audio response is streamed back to the client."
-              ghLink="https://github.com/JonHaywood/openai-realtime-demo"
+              ghLink=""
             />
           </Col>
           <Col md={4} className="project-card">
@@ -36,7 +36,7 @@ function RouteComponent() {
               imgPath={gptAssistant}
               title="GPT-Assistant"
               description="GPT-Assistant your own personal Siri, your own 'OK Google', a Typescript, Node.js-based digital home assistant built to run on a Raspberry Pi."
-              ghLink="https://github.com/JonHaywood/gpt-assistant"
+              ghLink=""
             />
           </Col>
           <Col md={4} className="project-card">
@@ -44,7 +44,7 @@ function RouteComponent() {
               imgPath={gamesAI}
               title="Games.AI"
               description="A C# machine learning library to solve simple games and puzzles. This is a library made (mostly) for fun. It's a C# library that contains machine learning algorithms that solve a handful of different types of games."
-              ghLink="https://github.com/JonHaywood/Games.AI"
+              ghLink=""
             />
           </Col>
         </Row>
